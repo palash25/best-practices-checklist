@@ -33,6 +33,8 @@ It could be anything from articles to books to videos that describes:
 - [Clean Go](https://github.com/Pungyeon/clean-go-article)
 - [Domain Driven Design in Go](https://github.com/marcusolsson/goddd)
 - [Learn Go With Tests](https://quii.gitbook.io/learn-go-with-tests/)
+- [Effective Go](https://golang.org/doc/effective_go.html)
+- [How to Write Go Code](https://golang.org/doc/code.html)
 
 ### Python
 - [Hitchhiker's Guide to Python](https://docs.python-guide.org/)
