@@ -46,6 +46,7 @@ It could be anything from articles to books to videos that describes:
 ### Ruby
 - [RSpec Best Practices](https://github.com/abinoda/rspec-best-practices)
 - [Let’s Read! — Eloquent Ruby](https://medium.com/@baweaver/lets-read-eloquent-ruby-ch-1-b2115d1416a6)
+- [Ruby Style Guide](https://rubystyle.guide/)
 
 ### OCaml
 - [OCaml Style Guide](https://github.com/lindig/ocaml-style)
