@@ -14,6 +14,7 @@
   - [Common Lisp](#common-lisp)
   - [Java](#java)
   - [D](#d)
+  - [Clojure](#clojure)
   - [General API Design and Tooling](#general-api-design-and-tooling)
 
 ## What is this?
@@ -79,6 +80,9 @@ It could be anything from articles to books to videos that describes:
 
 ### D
 - [The D Style](https://dlang.org/dstyle.html)
+
+### Clojure
+- [Clojure Style Guide](https://github.com/bbatsov/clojure-style-guide)
 
 ## General API Design and Tooling
 - [Designing unix tools](https://monkey.org/~marius/unix-tools-hints.html)
