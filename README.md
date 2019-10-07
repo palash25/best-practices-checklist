@@ -13,6 +13,7 @@
   - [Erlang](#erlang)
   - [Common Lisp](#common-lisp)
   - [Java](#java)
+  - [D](#d)
   - [General API Design and Tooling](#general-api-design-and-tooling)
 
 ## What is this?
@@ -41,6 +42,7 @@ It could be anything from articles to books to videos that describes:
 - [Rust Programming Language (Book)](https://doc.rust-lang.org/book/)
 - [Rust Language Cheat Sheet](https://cheats.rs/)
 - [Rust Cookbook](https://rust-lang-nursery.github.io/rust-cookbook/)
+- [3 Day Rust Course by Ferrous Systems](https://ferrous-systems.github.io/rust-three-days-course)
 - [Rust By Example](https://doc.rust-lang.org/rust-by-example/macros/overload.html)
 - [Cargo Guide](https://doc.rust-lang.org/cargo/guide/)
 
