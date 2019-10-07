@@ -1,16 +1,31 @@
 # Best Practices Checklist
 
+## Table of Contents
+- [What is this?](#what-is-this)
+- [Why this repo?](#why-this-repo)
+- [What counts as an acceptable entry?](#what-counts-as-an-acceptable-entry)
+- [Language Specific Resources](#language-specific-resources)
+  - [Rust](#rust)
+  - [Go](#go)
+  - [Python](#python)
+  - [Ruby](#ruby)
+  - [OCaml](#ocaml)
+  - [Erlang](#erlang)
+  - [Common Lisp](#common-lisp)
+  - [Java](#java)
+  - [General API Design and Tooling](#general-api-design-and-tooling)
+
 ## What is this?
 
 This document is a collection of language specific resources that one can use to look up the best practices followed by that particular language's community.
 
 ## Why this repo?
 
-I am a programming language enthusiast and I like picking up new languages all the time. Like most curious devs I learn different languages by implementing some side projects using them. This can be achieved by writing quick hacks that mostly turn out to be ugly code but if we want our projects to be publicly available to be used or hacked on by others we must ensure that the code we write is idiomatic and easily understood. 
+I am a programming language enthusiast and I like picking up new languages all the time. Like most curious devs I learn different languages by implementing some side projects using them. This can be achieved by writing quick hacks that mostly turn out to be ugly code but if we want our projects to be publicly available to be used or hacked on by others we must ensure that the code we write is idiomatic and easily understood.
 
 That is the purpose of this repo to serve as a collection of resources that one can quickly look up while building such projects to make sure that their code is idiomatic before they make it public.
 
-## What counts as an acceptable entry to this list of resources?
+## What counts as an acceptable entry?
 
 It could be anything from articles to books to videos that describes:
 - how to write idiomatic code in a particular language
@@ -54,6 +69,14 @@ It could be anything from articles to books to videos that describes:
 ### Erlang
 - [Spawned Shelter](http://spawnedshelter.com)
 
+### Common Lisp
+- [Standard CL Symbols](https://www.hexstreamsoft.com/articles/notes-tips-standard-common-lisp-symbols/)
 
-## General API/Tool Design
+### Java
+- [Principles of Lean Java](http://www.ameyalokare.com/software/2018/01/13/lean-java-principles.html)
+
+### D
+- [The D Style](https://dlang.org/dstyle.html)
+
+## General API Design and Tooling
 - [Designing unix tools](https://monkey.org/~marius/unix-tools-hints.html)
