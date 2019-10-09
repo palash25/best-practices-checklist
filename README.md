@@ -88,6 +88,7 @@ It could be anything from articles to books to videos that describes:
 
 ### Nim
 - [Nim Style Guide](https://nim-lang.org/docs/nep1.html)
+- [Nim Notes](https://scripter.co/notes/nim)
 
 ## General API Design and Tooling
 - [Designing unix tools](https://monkey.org/~marius/unix-tools-hints.html)
