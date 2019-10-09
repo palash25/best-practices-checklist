@@ -15,6 +15,7 @@
   - [Java](#java)
   - [D](#d)
   - [Clojure](#clojure)
+  - [Nim](#nim)
   - [General API Design and Tooling](#general-api-design-and-tooling)
 
 ## What is this?
@@ -83,6 +84,10 @@ It could be anything from articles to books to videos that describes:
 
 ### Clojure
 - [Clojure Style Guide](https://github.com/bbatsov/clojure-style-guide)
+
+
+### Nim
+- [Nim Style Guide](https://nim-lang.org/docs/nep1.html)
 
 ## General API Design and Tooling
 - [Designing unix tools](https://monkey.org/~marius/unix-tools-hints.html)
