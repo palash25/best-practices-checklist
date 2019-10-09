@@ -35,7 +35,8 @@ It could be anything from articles to books to videos that describes:
 - what build systems / package managers to use and the best practices surrounding these aforementioned tools
 - how to good write unit/integration tests
 - different styles and idioms of a language
-- software design in general etc.
+- software design in general etc
+- new lanuage section (if you find that the resources for your favourite language are missing feel free to create a new section and add them)
 
 ## Language Specific Resources
 ### Rust
