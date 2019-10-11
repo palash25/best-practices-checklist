@@ -55,6 +55,7 @@ It could be anything from articles to books to videos that describes:
 - [Learn Go With Tests](https://quii.gitbook.io/learn-go-with-tests/)
 - [Effective Go](https://golang.org/doc/effective_go.html)
 - [How to Write Go Code](https://golang.org/doc/code.html)
+- [The Uber Go Style Guide](https://github.com/uber-go/guide)
 
 ### Python
 - [Hitchhiker's Guide to Python](https://docs.python-guide.org/)
