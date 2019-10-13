@@ -11,6 +11,7 @@
   - [Ruby](#ruby)
   - [OCaml](#ocaml)
   - [Erlang](#erlang)
+  - [Elixir](#elixir)
   - [Common Lisp](#common-lisp)
   - [Java](#java)
   - [D](#d)
@@ -75,6 +76,9 @@ It could be anything from articles to books to videos that describes:
 
 ### Erlang
 - [Spawned Shelter](http://spawnedshelter.com)
+
+### Elixir
+- [Credo's Elixir Style Guide](https://github.com/rrrene/elixir-style-guide)
 
 ### Common Lisp
 - [Standard CL Symbols](https://www.hexstreamsoft.com/articles/notes-tips-standard-common-lisp-symbols/)
