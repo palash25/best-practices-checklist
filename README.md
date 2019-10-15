@@ -89,6 +89,7 @@ It could be anything from articles to books to videos that describes:
 
 ### D
 - [The D Style](https://dlang.org/dstyle.html)
+- [Pragmatic D Tutorial: Idiomatic D](https://qznc.github.io/d-tut/idiomatic.html)
 
 ### Clojure
 - [Clojure Style Guide](https://github.com/bbatsov/clojure-style-guide)
