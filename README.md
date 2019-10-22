@@ -105,6 +105,7 @@ It could be anything from articles to books to videos that describes:
 ### Javascript
 - [Eloquent Javascript](http://eloquentjavascript.net/)
 - [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
+- [JS: The Right Way](https://jstherightway.org/)
 
 ## General API Design and Tooling
 - [Designing unix tools](https://monkey.org/~marius/unix-tools-hints.html)
