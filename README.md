@@ -18,6 +18,7 @@
   - [Clojure](#clojure)
   - [Nim](#nim)
   - [Pony](#pony)
+  - [JavaScript](#javascript)
   - [General API Design and Tooling](#general-api-design-and-tooling)
 
 ## What is this?
