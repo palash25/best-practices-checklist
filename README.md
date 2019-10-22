@@ -14,6 +14,7 @@
   - [Elixir](#elixir)
   - [Common Lisp](#common-lisp)
   - [Java](#java)
+  - [Scala](#scala)
   - [D](#d)
   - [Clojure](#clojure)
   - [Nim](#nim)
@@ -87,6 +88,10 @@ It could be anything from articles to books to videos that describes:
 
 ### Java
 - [Principles of Lean Java](http://www.ameyalokare.com/software/2018/01/13/lean-java-principles.html)
+
+### Scala
+- [Scala Idioms](https://leanpub.com/scalaidioms/read)
+- [Scala Best Practice Idioms](https://alvinalexander.com/scala/scala-best-practices-idioms-cookbook)
 
 ### D
 - [The D Style](https://dlang.org/dstyle.html)
