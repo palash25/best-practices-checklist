@@ -43,7 +43,9 @@ It could be anything from articles to books to videos that describes:
 - how to good write unit/integration tests
 - different styles and idioms of a language
 - software design in general etc
-- new lanuage section (if you find that the resources for your favourite language are missing feel free to create a new section and add them)
+- new language section (if you find that the resources for your favourite language are missing feel free to create a new section and add them)
+
+**Note:** If you are adding a book to the list make sure that it is a free ebook. Amazon links to buy books will not be accepted.
 
 ## Language Specific Resources
 
