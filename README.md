@@ -23,7 +23,6 @@
   - [JavaScript](#javascript)
   - [C++](#C++)
   - [General API Design and Tooling](#general-api-design-and-tooling)
-- [Books](#books)
 
 ## What is this
 
@@ -142,7 +141,3 @@ It could be anything from articles to books to videos that describes:
 ### General API Design and Tooling
 
 - [Designing unix tools](https://monkey.org/~marius/unix-tools-hints.html)
-
-## Books
-
-- [Clean Code by Robert C Martin](https://www.amazon.in/Clean-Code-Robert-C-Martin/dp/8131773388)
