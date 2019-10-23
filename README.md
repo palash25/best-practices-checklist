@@ -77,6 +77,7 @@ It could be anything from articles to books to videos that describes:
 - [PEP8](https://www.python.org/dev/peps/pep-0008/)
 - [Design Patterns Toptal Blog Post](https://www.toptal.com/python/python-design-patterns)
 - [Google Python Style Guide](https://google.github.io/styleguide/pyguide.html)
+- [wemake-python-styleguide](https://github.com/wemake-services/wemake-python-styleguide)
 
 ### Ruby
 
