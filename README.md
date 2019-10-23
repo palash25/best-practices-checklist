@@ -92,6 +92,8 @@ It could be anything from articles to books to videos that describes:
 ### Scala
 - [Scala Idioms](https://leanpub.com/scalaidioms/read)
 - [Scala Best Practice Idioms](https://alvinalexander.com/scala/scala-best-practices-idioms-cookbook)
+- [Scala School](https://twitter.github.io/scala_school/)
+
 
 ### D
 - [The D Style](https://dlang.org/dstyle.html)
