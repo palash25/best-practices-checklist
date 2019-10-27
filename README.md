@@ -10,8 +10,8 @@
   - [Clojure](#clojure)
   - [Common Lisp](#common-lisp)
   - [D](#d)
-  - [Erlang](#erlang)
   - [Elixir](#elixir)
+  - [Erlang](#erlang)
   - [Go](#go)
   - [Java](#java)
   - [JavaScript](#javascript)
@@ -50,16 +50,30 @@ It could be anything from articles to books to videos that describes:
 
 ## Language Specific Resources
 
-### Rust
+### C++
 
-- [Elements of Rust](https://github.com/ferrous-systems/elements-of-rust)
-- [Rust Language Reference](https://doc.rust-lang.org/nightly/reference/introduction.html)
-- [Rust Programming Language (Book)](https://doc.rust-lang.org/book/)
-- [Rust Language Cheat Sheet](https://cheats.rs/)
-- [Rust Cookbook](https://rust-lang-nursery.github.io/rust-cookbook/)
-- [3 Day Rust Course by Ferrous Systems](https://ferrous-systems.github.io/rust-three-days-course)
-- [Rust By Example](https://doc.rust-lang.org/rust-by-example/macros/overload.html)
-- [Cargo Guide](https://doc.rust-lang.org/cargo/guide/)
+- [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html)
+
+### Common Lisp
+
+- [Standard CL Symbols](https://www.hexstreamsoft.com/articles/notes-tips-standard-common-lisp-symbols/)
+
+### Clojure
+
+- [Clojure Style Guide](https://github.com/bbatsov/clojure-style-guide)
+
+### D
+
+- [The D Style](https://dlang.org/dstyle.html)
+- [Pragmatic D Tutorial: Idiomatic D](https://qznc.github.io/d-tut/idiomatic.html)
+
+### Elixir
+
+- [Credo's Elixir Style Guide](https://github.com/rrrene/elixir-style-guide)
+
+### Erlang
+
+- [Spawned Shelter](http://spawnedshelter.com)
 
 ### Go
 
@@ -69,6 +83,31 @@ It could be anything from articles to books to videos that describes:
 - [Effective Go](https://golang.org/doc/effective_go.html)
 - [How to Write Go Code](https://golang.org/doc/code.html)
 - [The Uber Go Style Guide](https://github.com/uber-go/guide)
+
+### Java
+
+- [Principles of Lean Java](http://www.ameyalokare.com/software/2018/01/13/lean-java-principles.html)
+- [Google Java Style Guide](https://google.github.io/styleguide/javaguide.html)
+
+### Javascript
+
+- [Eloquent Javascript](http://eloquentjavascript.net/)
+- [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
+- [JS: The Right Way](https://jstherightway.org/)
+- [Google JavaScript Style Guide](https://google.github.io/styleguide/jsguide.html)
+
+### Nim
+
+- [Nim Style Guide](https://nim-lang.org/docs/nep1.html)
+- [Nim Notes](https://scripter.co/notes/nim)
+
+### OCaml
+
+- [OCaml Style Guide](https://github.com/lindig/ocaml-style)
+
+### Pony
+
+- [Pony Patterns](https://patterns.ponylang.io/)
 
 ### Python
 
@@ -86,26 +125,16 @@ It could be anything from articles to books to videos that describes:
 - [Ruby Style Guide](https://rubystyle.guide/)
 - [Best Ruby](http://franzejr.github.io/best-ruby/)
 
-### OCaml
+### Rust
 
-- [OCaml Style Guide](https://github.com/lindig/ocaml-style)
-
-### Erlang
-
-- [Spawned Shelter](http://spawnedshelter.com)
-
-### Elixir
-
-- [Credo's Elixir Style Guide](https://github.com/rrrene/elixir-style-guide)
-
-### Common Lisp
-
-- [Standard CL Symbols](https://www.hexstreamsoft.com/articles/notes-tips-standard-common-lisp-symbols/)
-
-### Java
-
-- [Principles of Lean Java](http://www.ameyalokare.com/software/2018/01/13/lean-java-principles.html)
-- [Google Java Style Guide](https://google.github.io/styleguide/javaguide.html)
+- [Elements of Rust](https://github.com/ferrous-systems/elements-of-rust)
+- [Rust Language Reference](https://doc.rust-lang.org/nightly/reference/introduction.html)
+- [Rust Programming Language (Book)](https://doc.rust-lang.org/book/)
+- [Rust Language Cheat Sheet](https://cheats.rs/)
+- [Rust Cookbook](https://rust-lang-nursery.github.io/rust-cookbook/)
+- [3 Day Rust Course by Ferrous Systems](https://ferrous-systems.github.io/rust-three-days-course)
+- [Rust By Example](https://doc.rust-lang.org/rust-by-example/macros/overload.html)
+- [Cargo Guide](https://doc.rust-lang.org/cargo/guide/)
 
 ### Scala
 
@@ -113,35 +142,6 @@ It could be anything from articles to books to videos that describes:
 - [Scala Best Practice Idioms](https://alvinalexander.com/scala/scala-best-practices-idioms-cookbook)
 - [Scala School](https://twitter.github.io/scala_school/)
 
-
-### D
-
-- [The D Style](https://dlang.org/dstyle.html)
-- [Pragmatic D Tutorial: Idiomatic D](https://qznc.github.io/d-tut/idiomatic.html)
-
-### Clojure
-
-- [Clojure Style Guide](https://github.com/bbatsov/clojure-style-guide)
-
-### Nim
-
-- [Nim Style Guide](https://nim-lang.org/docs/nep1.html)
-- [Nim Notes](https://scripter.co/notes/nim)
-
-### Pony
-
-- [Pony Patterns](https://patterns.ponylang.io/)
-
-### Javascript
-
-- [Eloquent Javascript](http://eloquentjavascript.net/)
-- [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
-- [JS: The Right Way](https://jstherightway.org/)
-- [Google JavaScript Style Guide](https://google.github.io/styleguide/jsguide.html)
-
-### C++
-
-- [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html)
 
 ### General API Design and Tooling
 
