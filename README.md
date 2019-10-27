@@ -64,8 +64,8 @@ It could be anything from articles to books to videos that describes:
 
 ### D
 
-- [The D Style](https://dlang.org/dstyle.html)
 - [Pragmatic D Tutorial: Idiomatic D](https://qznc.github.io/d-tut/idiomatic.html)
+- [The D Style](https://dlang.org/dstyle.html)
 
 ### Elixir
 
@@ -79,27 +79,27 @@ It could be anything from articles to books to videos that describes:
 
 - [Clean Go](https://github.com/Pungyeon/clean-go-article)
 - [Domain Driven Design in Go](https://github.com/marcusolsson/goddd)
-- [Learn Go With Tests](https://quii.gitbook.io/learn-go-with-tests/)
 - [Effective Go](https://golang.org/doc/effective_go.html)
 - [How to Write Go Code](https://golang.org/doc/code.html)
+- [Learn Go With Tests](https://quii.gitbook.io/learn-go-with-tests/)
 - [The Uber Go Style Guide](https://github.com/uber-go/guide)
 
 ### Java
 
-- [Principles of Lean Java](http://www.ameyalokare.com/software/2018/01/13/lean-java-principles.html)
 - [Google Java Style Guide](https://google.github.io/styleguide/javaguide.html)
+- [Principles of Lean Java](http://www.ameyalokare.com/software/2018/01/13/lean-java-principles.html)
 
 ### Javascript
 
 - [Eloquent Javascript](http://eloquentjavascript.net/)
-- [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
-- [JS: The Right Way](https://jstherightway.org/)
 - [Google JavaScript Style Guide](https://google.github.io/styleguide/jsguide.html)
+- [JS: The Right Way](https://jstherightway.org/)
+- [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
 
 ### Nim
 
-- [Nim Style Guide](https://nim-lang.org/docs/nep1.html)
 - [Nim Notes](https://scripter.co/notes/nim)
+- [Nim Style Guide](https://nim-lang.org/docs/nep1.html)
 
 ### OCaml
 
@@ -111,35 +111,35 @@ It could be anything from articles to books to videos that describes:
 
 ### Python
 
-- [Hitchhiker's Guide to Python](https://docs.python-guide.org/)
-- [Python API Checklist](https://github.com/vintasoftware/python-api-checklist)
 - [Design Patterns Implementations](https://github.com/faif/python-patterns)
-- [PEP8](https://www.python.org/dev/peps/pep-0008/)
 - [Design Patterns Toptal Blog Post](https://www.toptal.com/python/python-design-patterns)
 - [Google Python Style Guide](https://google.github.io/styleguide/pyguide.html)
+- [Hitchhiker's Guide to Python](https://docs.python-guide.org/)
+- [PEP8](https://www.python.org/dev/peps/pep-0008/)
+- [Python API Checklist](https://github.com/vintasoftware/python-api-checklist)
 
 ### Ruby
 
-- [RSpec Best Practices](https://github.com/abinoda/rspec-best-practices)
-- [Let’s Read! — Eloquent Ruby](https://medium.com/@baweaver/lets-read-eloquent-ruby-ch-1-b2115d1416a6)
-- [Ruby Style Guide](https://rubystyle.guide/)
 - [Best Ruby](http://franzejr.github.io/best-ruby/)
+- [Let’s Read! — Eloquent Ruby](https://medium.com/@baweaver/lets-read-eloquent-ruby-ch-1-b2115d1416a6)
+- [RSpec Best Practices](https://github.com/abinoda/rspec-best-practices)
+- [Ruby Style Guide](https://rubystyle.guide/)
 
 ### Rust
 
-- [Elements of Rust](https://github.com/ferrous-systems/elements-of-rust)
-- [Rust Language Reference](https://doc.rust-lang.org/nightly/reference/introduction.html)
-- [Rust Programming Language (Book)](https://doc.rust-lang.org/book/)
-- [Rust Language Cheat Sheet](https://cheats.rs/)
-- [Rust Cookbook](https://rust-lang-nursery.github.io/rust-cookbook/)
 - [3 Day Rust Course by Ferrous Systems](https://ferrous-systems.github.io/rust-three-days-course)
-- [Rust By Example](https://doc.rust-lang.org/rust-by-example/macros/overload.html)
 - [Cargo Guide](https://doc.rust-lang.org/cargo/guide/)
+- [Elements of Rust](https://github.com/ferrous-systems/elements-of-rust)
+- [Rust By Example](https://doc.rust-lang.org/rust-by-example/macros/overload.html)
+- [Rust Cookbook](https://rust-lang-nursery.github.io/rust-cookbook/)
+- [Rust Language Reference](https://doc.rust-lang.org/nightly/reference/introduction.html)
+- [Rust Language Cheat Sheet](https://cheats.rs/)
+- [Rust Programming Language (Book)](https://doc.rust-lang.org/book/)
 
 ### Scala
 
-- [Scala Idioms](https://leanpub.com/scalaidioms/read)
 - [Scala Best Practice Idioms](https://alvinalexander.com/scala/scala-best-practices-idioms-cookbook)
+- [Scala Idioms](https://leanpub.com/scalaidioms/read)
 - [Scala School](https://twitter.github.io/scala_school/)
 
 
