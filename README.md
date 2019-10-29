@@ -23,6 +23,7 @@
   - [JavaScript](#javascript)
   - [C++](#C++)
   - [Dart](#dart)
+  - [Kotlin](#kotlin)
   - [General API Design and Tooling](#general-api-design-and-tooling)
 
 ## What is this
@@ -146,6 +147,13 @@ It could be anything from articles to books to videos that describes:
 ### Dart
 
 - [Dart Language Tour](https://dart.dev/guides/language/language-tour)
+
+### Kotlin
+
+- [Kotlin Language Reference](https://kotlinlang.org/docs/reference/)
+- [Kotlin Mega Tutorial](https://superkotlin.com/kotlin-mega-tutorial/)
+- [Kotlin is Awesome](https://kotlin.link)
+- [Kotlin by Example](https://play.kotlinlang.org/byExample/overview)
 
 ### General API Design and Tooling
 
