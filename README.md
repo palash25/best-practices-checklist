@@ -22,6 +22,7 @@
   - [Pony](#pony)
   - [JavaScript](#javascript)
   - [C++](#C++)
+  - [Dart](#dart)
   - [General API Design and Tooling](#general-api-design-and-tooling)
 
 ## What is this
@@ -141,6 +142,10 @@ It could be anything from articles to books to videos that describes:
 ### C++
 
 - [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html)
+
+### Dart
+
+- [Dart Language Tour](https://dart.dev/guides/language/language-tour)
 
 ### General API Design and Tooling
 
