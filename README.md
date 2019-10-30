@@ -106,6 +106,7 @@ It could be anything from articles to books to videos that describes:
 
 - [Principles of Lean Java](http://www.ameyalokare.com/software/2018/01/13/lean-java-principles.html)
 - [Google Java Style Guide](https://google.github.io/styleguide/javaguide.html)
+- [Java Code Conventions](https://www.oracle.com/technetwork/java/codeconventions-150003.pdf)
 
 ### Scala
 
