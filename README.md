@@ -14,7 +14,7 @@
   - [Erlang](#erlang)
   - [Elixir](#elixir)
   - [Common Lisp](#common-lisp)
-  - [C#](#C#)
+  - [C#](#c\#)
   - [Java](#java)
   - [Scala](#scala)
   - [D](#d)
