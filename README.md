@@ -14,7 +14,7 @@
   - [Erlang](#erlang)
   - [Elixir](#elixir)
   - [Common Lisp](#common-lisp)
-  - [C#](#c\#)
+  - [C#](#CSharp)
   - [Java](#java)
   - [Scala](#scala)
   - [D](#d)
@@ -104,7 +104,7 @@ It could be anything from articles to books to videos that describes:
 
 - [Standard CL Symbols](https://www.hexstreamsoft.com/articles/notes-tips-standard-common-lisp-symbols/)
 
-### C\#
+### CSharp
 
 - [Open-source library guidance](https://docs.microsoft.com/en-us/dotnet/standard/library-guidance/)
 - [C# Programming guide](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/)
