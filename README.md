@@ -104,7 +104,7 @@ It could be anything from articles to books to videos that describes:
 
 - [Standard CL Symbols](https://www.hexstreamsoft.com/articles/notes-tips-standard-common-lisp-symbols/)
 
-### C#
+### C\#
 
 - [Open-source library guidance](https://docs.microsoft.com/en-us/dotnet/standard/library-guidance/)
 - [C# Programming guide](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/)
