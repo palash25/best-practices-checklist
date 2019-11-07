@@ -103,6 +103,14 @@ It could be anything from articles to books to videos that describes:
 
 - [Standard CL Symbols](https://www.hexstreamsoft.com/articles/notes-tips-standard-common-lisp-symbols/)
 
+### C#
+
+- [Open-source library guidance](https://docs.microsoft.com/en-us/dotnet/standard/library-guidance/)
+- [C# Programming guide](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/)
+- [.NET Microservices: Architecture for Containerized .NET Applications](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/)
+- [C# Coding conventions](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/inside-a-program/coding-conventions)
+- [Unit testing in .NET Core and .NET Standard](https://docs.microsoft.com/ru-ru/dotnet/core/testing/)
+
 ### Java
 
 - [Principles of Lean Java](http://www.ameyalokare.com/software/2018/01/13/lean-java-principles.html)
