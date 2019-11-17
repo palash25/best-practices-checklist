@@ -105,8 +105,8 @@ It could be anything from articles to books to videos that describes:
 - [JS: The Right Way](https://jstherightway.org/)
 - [PEP8](https://www.python.org/dev/peps/pep-0008/)
 - [Python API Checklist](https://github.com/vintasoftware/python-api-checklist)
-- [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
 - [wemake-python-styleguide (contains a list of stylistic rules / guidelines for Python code)](https://wemake-python-stylegui.de/en/latest/pages/usage/violations/index.html)
+- [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
 
 
 ### Nim
@@ -145,8 +145,8 @@ It could be anything from articles to books to videos that describes:
 - [Elements of Rust](https://github.com/ferrous-systems/elements-of-rust)
 - [Rust By Example](https://doc.rust-lang.org/rust-by-example/macros/overload.html)
 - [Rust Cookbook](https://rust-lang-nursery.github.io/rust-cookbook/)
-- [Rust Language Reference](https://doc.rust-lang.org/nightly/reference/introduction.html)
 - [Rust Language Cheat Sheet](https://cheats.rs/)
+- [Rust Language Reference](https://doc.rust-lang.org/nightly/reference/introduction.html)
 - [Rust Programming Language (Book)](https://doc.rust-lang.org/book/)
 
 ### Scala
