@@ -11,6 +11,7 @@
   - [Python](#python)
   - [Ruby](#ruby)
   - [OCaml](#ocaml)
+  - [Haskell](#haskell)
   - [Erlang](#erlang)
   - [Elixir](#elixir)
   - [Common Lisp](#common-lisp)
