@@ -21,14 +21,14 @@
     - [Scala](#scala)
   - [JavaScript Language Family](#javascript-language-family)
     - [JavaScript](#javascript)
-  - [Prolog Language Family](#prolog-language-family)
-    - [Elixir](#elixir)
-    - [Erlang](#erlang)
   - [Lisp Language Family](#lisp-language-family)
     - [Clojure](#clojure)
     - [Common Lisp](#common-lisp)
   - [ML Language Family](#ml-language-family)
     - [OCaml](#ocaml)
+  - [Prolog Language Family](#prolog-language-family)
+    - [Elixir](#elixir)
+    - [Erlang](#erlang)
   - [Unnown Language Family](#unnown-language-family)
     - [Pony](#pony)
     - [General API Design and Tooling](#general-api-design-and-tooling)
@@ -137,14 +137,6 @@ It could be anything from articles to books to videos that describes:
 - [wemake-python-styleguide (contains a list of stylistic rules / guidelines for Python code)](https://wemake-python-stylegui.de/en/latest/pages/usage/violations/index.html)
 - [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
 
-### Prolog Language Family
-
-#### Elixir
-- [Credo's Elixir Style Guide](https://github.com/rrrene/elixir-style-guide)
-
-#### Erlang
-- [Spawned Shelter](http://spawnedshelter.com)
-
 ### Lisp Language Family
 
 #### Clojure
@@ -157,6 +149,14 @@ It could be anything from articles to books to videos that describes:
 
 #### OCaml
 - [OCaml Style Guide](https://github.com/lindig/ocaml-style)
+
+### Prolog Language Family
+
+#### Elixir
+- [Credo's Elixir Style Guide](https://github.com/rrrene/elixir-style-guide)
+
+#### Erlang
+- [Spawned Shelter](http://spawnedshelter.com)
 
 ### Unnown Language Family
 
