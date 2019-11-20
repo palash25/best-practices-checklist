@@ -11,6 +11,7 @@
   - [Python](#python)
   - [Ruby](#ruby)
   - [OCaml](#ocaml)
+  - [Haskell](#haskell)
   - [Erlang](#erlang)
   - [Elixir](#elixir)
   - [Common Lisp](#common-lisp)
@@ -90,6 +91,12 @@ It could be anything from articles to books to videos that describes:
 ### OCaml
 
 - [OCaml Style Guide](https://github.com/lindig/ocaml-style)
+
+### Haskell
+
+- [Programming Guidelines](https://wiki.haskell.org/Programming_guidelines)
+- [Things to Avoid](https://wiki.haskell.org/Haskell_programming_tips)
+- [Useful Idioms](https://wiki.haskell.org/Blow_your_mind)
 
 ### Erlang
 
