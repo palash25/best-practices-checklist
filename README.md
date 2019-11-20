@@ -29,6 +29,8 @@
   - [Prolog Language Family](#prolog-language-family)
     - [Elixir](#elixir)
     - [Erlang](#erlang)
+  - [SASL Language Family](#sasl-language-family)
+    - [Haskell](#haskell)
   - [Unnown Language Family](#unnown-language-family)
     - [Pony](#pony)
     - [General API Design and Tooling](#general-api-design-and-tooling)
@@ -157,6 +159,13 @@ It could be anything from articles to books to videos that describes:
 
 #### Erlang
 - [Spawned Shelter](http://spawnedshelter.com)
+
+### SASL Language Family
+
+### Haskell
+- [Programming Guidelines](https://wiki.haskell.org/Programming_guidelines)
+- [Things to Avoid](https://wiki.haskell.org/Haskell_programming_tips)
+- [Useful Idioms](https://wiki.haskell.org/Blow_your_mind)
 
 ### Unnown Language Family
 
