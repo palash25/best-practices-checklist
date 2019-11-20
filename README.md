@@ -14,6 +14,7 @@
   - [Elixir](#elixir)
   - [Erlang](#erlang)
   - [Go](#go)
+  - [Haskell](#haskell)
   - [Java](#java)
   - [JavaScript](#javascript)
   - [Nim](#nim)
@@ -88,6 +89,12 @@ It could be anything from articles to books to videos that describes:
 - [How to Write Go Code](https://golang.org/doc/code.html)
 - [Learn Go With Tests](https://quii.gitbook.io/learn-go-with-tests/)
 - [The Uber Go Style Guide](https://github.com/uber-go/guide)
+
+### Haskell
+
+- [Programming Guidelines](https://wiki.haskell.org/Programming_guidelines)
+- [Things to Avoid](https://wiki.haskell.org/Haskell_programming_tips)
+- [Useful Idioms](https://wiki.haskell.org/Blow_your_mind)
 
 ### Java
 
