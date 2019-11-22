@@ -87,6 +87,7 @@ It could be anything from articles to books to videos that describes:
 - [Let’s Read! — Eloquent Ruby](https://medium.com/@baweaver/lets-read-eloquent-ruby-ch-1-b2115d1416a6)
 - [Ruby Style Guide](https://rubystyle.guide/)
 - [Best Ruby](http://franzejr.github.io/best-ruby/)
+- [Fast Ruby - Idioms for writing performant code](https://github.com/JuanitoFatas/fast-ruby)
 
 ### OCaml
 
@@ -104,6 +105,7 @@ It could be anything from articles to books to videos that describes:
 
 ### Elixir
 
+- [Fast Elixir - Idioms for writing performant code](https://github.com/devonestes/fast-elixir)
 - [Credo's Elixir Style Guide](https://github.com/rrrene/elixir-style-guide)
 
 ### Common Lisp
