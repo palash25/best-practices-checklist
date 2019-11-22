@@ -15,6 +15,7 @@
   - [Erlang](#erlang)
   - [Elixir](#elixir)
   - [Common Lisp](#common-lisp)
+  - [C#](#CSharp)
   - [Java](#java)
   - [Scala](#scala)
   - [D](#d)
@@ -111,6 +112,14 @@ It could be anything from articles to books to videos that describes:
 ### Common Lisp
 
 - [Standard CL Symbols](https://www.hexstreamsoft.com/articles/notes-tips-standard-common-lisp-symbols/)
+
+### CSharp
+
+- [Open-source library guidance](https://docs.microsoft.com/en-us/dotnet/standard/library-guidance/)
+- [C# Programming guide](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/)
+- [.NET Microservices: Architecture for Containerized .NET Applications](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/)
+- [C# Coding conventions](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/inside-a-program/coding-conventions)
+- [Unit testing in .NET Core and .NET Standard](https://docs.microsoft.com/en-us/dotnet/core/testing/)
 
 ### Java
 
