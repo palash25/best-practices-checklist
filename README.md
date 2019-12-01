@@ -71,6 +71,7 @@ It could be anything from articles to books to videos that describes:
 - [Effective Go](https://golang.org/doc/effective_go.html)
 - [How to Write Go Code](https://golang.org/doc/code.html)
 - [The Uber Go Style Guide](https://github.com/uber-go/guide)
+- [Golang Standards](https://github.com/golang-standards/project-layout)
 
 ### Python
 
