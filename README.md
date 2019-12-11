@@ -81,6 +81,7 @@ It could be anything from articles to books to videos that describes:
 - [PEP8](https://www.python.org/dev/peps/pep-0008/)
 - [Design Patterns Toptal Blog Post](https://www.toptal.com/python/python-design-patterns)
 - [Google Python Style Guide](https://google.github.io/styleguide/pyguide.html)
+- [Mozilla Style Guide](https://firefox-source-docs.mozilla.org/tools/lint/coding-style/coding_style_python.html)
 - [wemake-python-styleguide (contains a list of stylistic rules / guidelines for Python code)](https://wemake-python-stylegui.de/en/latest/pages/usage/violations/index.html)
 
 ### Ruby
@@ -127,6 +128,7 @@ It could be anything from articles to books to videos that describes:
 - [Principles of Lean Java](http://www.ameyalokare.com/software/2018/01/13/lean-java-principles.html)
 - [Google Java Style Guide](https://google.github.io/styleguide/javaguide.html)
 - [Java Code Conventions](https://www.oracle.com/technetwork/java/codeconventions-150003.pdf)
+- [Mozilla Style Guide](https://firefox-source-docs.mozilla.org/tools/lint/coding-style/coding_style_java.html)
 
 ### Scala
 
@@ -159,11 +161,13 @@ It could be anything from articles to books to videos that describes:
 - [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
 - [JS: The Right Way](https://jstherightway.org/)
 - [Google JavaScript Style Guide](https://google.github.io/styleguide/jsguide.html)
+- [Mozilla Style Guide](https://firefox-source-docs.mozilla.org/tools/lint/coding-style/coding_style_js.html)
 
 ### C++
 
 - [ISO C++ Core Guidelines](http://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines)
 - [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html)
+- [Mozilla Style Guide](https://firefox-source-docs.mozilla.org/tools/lint/coding-style/coding_style_cpp.html)
 
 ### Dart
 
@@ -172,3 +176,4 @@ It could be anything from articles to books to videos that describes:
 ### General API Design and Tooling
 
 - [Designing unix tools](https://monkey.org/~marius/unix-tools-hints.html)
+- [Mozilla Coding Style](https://firefox-source-docs.mozilla.org/tools/lint/coding-style/coding_style_general.html#coding-style-general-practices)
