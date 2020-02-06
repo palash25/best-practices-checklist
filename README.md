@@ -66,6 +66,7 @@ It could be anything from articles to books to videos that describes:
 ### Go
 
 - [Clean Go](https://github.com/Pungyeon/clean-go-article)
+* [Idiomatic Go - Sourcegraph](https://about.sourcegraph.com/go/idiomatic-go)
 - [Domain Driven Design in Go](https://github.com/marcusolsson/goddd)
 - [Learn Go With Tests](https://quii.gitbook.io/learn-go-with-tests/)
 - [Effective Go](https://golang.org/doc/effective_go.html)
