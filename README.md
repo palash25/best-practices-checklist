@@ -62,6 +62,7 @@ It could be anything from articles to books to videos that describes:
 - [3 Day Rust Course by Ferrous Systems](https://ferrous-systems.github.io/rust-three-days-course)
 - [Rust By Example](https://doc.rust-lang.org/rust-by-example/macros/overload.html)
 - [Cargo Guide](https://doc.rust-lang.org/cargo/guide/)
+- [Idiomatic Rust](https://github.com/mre/idiomatic-rust)
 
 ### Go
 
