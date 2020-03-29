@@ -115,6 +115,7 @@ It could be anything from articles to books to videos that describes:
 
 - [Fast Elixir - Idioms for writing performant code](https://github.com/devonestes/fast-elixir)
 - [Credo's Elixir Style Guide](https://github.com/rrrene/elixir-style-guide)
+- [The Zen of Elixir](https://github.com/tony612/the-zen-of-elixir)
 
 ### Common Lisp
 
