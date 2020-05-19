@@ -84,6 +84,7 @@ It could be anything from articles to books to videos that describes:
 - [Python API Checklist](https://github.com/vintasoftware/python-api-checklist)
 - [Design Patterns Implementations](https://github.com/faif/python-patterns)
 - [PEP8](https://www.python.org/dev/peps/pep-0008/)
+- [Elements Of Python Style](https://github.com/amontalenti/elements-of-python-style)
 - [Design Patterns Toptal Blog Post](https://www.toptal.com/python/python-design-patterns)
 - [Google Python Style Guide](https://google.github.io/styleguide/pyguide.html)
 - [Mozilla Style Guide](https://firefox-source-docs.mozilla.org/tools/lint/coding-style/coding_style_python.html)
