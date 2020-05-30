@@ -63,6 +63,7 @@ It could be anything from articles to books to videos that describes:
 - [Rust By Example](https://doc.rust-lang.org/rust-by-example/macros/overload.html)
 - [Cargo Guide](https://doc.rust-lang.org/cargo/guide/)
 - [Idiomatic Rust](https://github.com/mre/idiomatic-rust)
+- [Unsafe Code Guidelines](https://rust-lang.github.io/unsafe-code-guidelines/)
 
 ### Go
 
