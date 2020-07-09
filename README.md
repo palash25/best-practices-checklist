@@ -18,6 +18,7 @@
   - [C#](#CSharp)
   - [Java](#java)
   - [Scala](#scala)
+  - [Kotlin](#kotlin)
   - [D](#d)
   - [Clojure](#clojure)
   - [Nim](#nim)
@@ -144,6 +145,10 @@ It could be anything from articles to books to videos that describes:
 - [Scala Best Practice Idioms](https://alvinalexander.com/scala/scala-best-practices-idioms-cookbook)
 - [Scala School](https://twitter.github.io/scala_school/)
 
+### Kotlin
+
+- [Coding Conventions](https://kotlinlang.org/docs/reference/coding-conventions.html)
+- [Google Kotlin Style Guide for Android](https://developer.android.com/kotlin/style-guideb)
 
 ### D
 
