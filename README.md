@@ -148,7 +148,7 @@ It could be anything from articles to books to videos that describes:
 ### Kotlin
 
 - [Coding Conventions](https://kotlinlang.org/docs/reference/coding-conventions.html)
-- [Google Kotlin Style Guide for Android](https://developer.android.com/kotlin/style-guideb)
+- [Google Kotlin Style Guide for Android](https://developer.android.com/kotlin/style-guide)
 
 ### D
 
