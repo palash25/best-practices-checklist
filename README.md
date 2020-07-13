@@ -18,6 +18,7 @@
   - [C#](#CSharp)
   - [Java](#java)
   - [Scala](#scala)
+  - [Groovy](#groovy)
   - [Kotlin](#kotlin)
   - [D](#d)
   - [Clojure](#clojure)
@@ -144,6 +145,10 @@ It could be anything from articles to books to videos that describes:
 - [Scala Idioms](https://leanpub.com/scalaidioms/read)
 - [Scala Best Practice Idioms](https://alvinalexander.com/scala/scala-best-practices-idioms-cookbook)
 - [Scala School](https://twitter.github.io/scala_school/)
+
+### Groovy
+
+- [Style guide](https://groovy-lang.org/style-guide.html)
 
 ### Kotlin
 
