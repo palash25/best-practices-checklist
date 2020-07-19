@@ -25,6 +25,7 @@
   - [Nim](#nim)
   - [Pony](#pony)
   - [JavaScript](#javascript)
+  - [C](#C)
   - [C++](#C++)
   - [Dart](#dart)
   - [General API Design and Tooling](#general-api-design-and-tooling)
@@ -180,6 +181,12 @@ It could be anything from articles to books to videos that describes:
 - [JS: The Right Way](https://jstherightway.org/)
 - [Google JavaScript Style Guide](https://google.github.io/styleguide/jsguide.html)
 - [Mozilla Style Guide](https://firefox-source-docs.mozilla.org/tools/lint/coding-style/coding_style_js.html)
+
+### C
+
+- [C Coding Style](https://developer.gnome.org/programming-guidelines/stable/c-coding-style.html.en)
+- [Making The Best Use of C](https://www.gnu.org/prep/standards/html_node/Writing-C.html)
+- [Recommended C Style and Coding Standards](https://www.doc.ic.ac.uk/lab/cplus/cstyle.html)
 
 ### C++
 
