@@ -194,7 +194,7 @@ It could be anything from articles to books to videos that describes:
 - [ISO C++ Core Guidelines](http://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines)
 - [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html)
 - [Mozilla Style Guide](https://firefox-source-docs.mozilla.org/tools/lint/coding-style/coding_style_cpp.html)
-- [C++ Style Guide](https://fuchsia.dev/fuchsia-src/development/languages/c-cpp/cpp-style)
+- [C++ style guide (Fuchsia)](https://fuchsia.dev/fuchsia-src/development/languages/c-cpp/cpp-style)
 
 ### Dart
 
