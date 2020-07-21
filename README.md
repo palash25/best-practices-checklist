@@ -93,6 +93,7 @@ It could be anything from articles to books to videos that describes:
 - [Google Python Style Guide](https://google.github.io/styleguide/pyguide.html)
 - [Mozilla Style Guide](https://firefox-source-docs.mozilla.org/tools/lint/coding-style/coding_style_python.html)
 - [wemake-python-styleguide (contains a list of stylistic rules / guidelines for Python code)](https://wemake-python-stylegui.de/en/latest/pages/usage/violations/index.html)
+- [Python style guide (Fuchsia)](https://fuchsia.dev/fuchsia-src/development/languages/python/python_style)
 
 ### Ruby
 
@@ -193,10 +194,13 @@ It could be anything from articles to books to videos that describes:
 - [ISO C++ Core Guidelines](http://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines)
 - [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html)
 - [Mozilla Style Guide](https://firefox-source-docs.mozilla.org/tools/lint/coding-style/coding_style_cpp.html)
+- [C++ Style Guide](https://fuchsia.dev/fuchsia-src/development/languages/c-cpp/cpp-style)
 
 ### Dart
 
 - [Dart Language Tour](https://dart.dev/guides/language/language-tour)
+- [Effective Dart](https://dart.dev/guides/language/effective-dart)
+- [Dart style guide (Fuchsia)](https://fuchsia.dev/fuchsia-src/development/languages/dart/style)
 
 ### General API Design and Tooling
 
