@@ -205,4 +205,4 @@ It could be anything from articles to books to videos that describes:
 ### General API Design and Tooling
 
 - [Designing unix tools](https://monkey.org/~marius/unix-tools-hints.html)
-- [Mozilla Coding Style](https://firefox-source-docs.mozilla.org/tools/lint/coding-style/coding_style_general.html#coding-style-general-practices)
+- [Mozilla Code quality](https://firefox-source-docs.mozilla.org/code-quality/index.html)
