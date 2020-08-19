@@ -28,6 +28,7 @@
   - [C](#C)
   - [C++](#C++)
   - [Dart](#dart)
+  - [SQL](#sql)
   - [General API Design and Tooling](#general-api-design-and-tooling)
 
 ## What is this
@@ -201,6 +202,10 @@ It could be anything from articles to books to videos that describes:
 - [Dart Language Tour](https://dart.dev/guides/language/language-tour)
 - [Effective Dart](https://dart.dev/guides/language/effective-dart)
 - [Dart style guide (Fuchsia)](https://fuchsia.dev/fuchsia-src/development/languages/dart/style)
+
+### SQL
+
+- [SQL Style Guide by Simon Holywell](https://www.sqlstyle.guide)
 
 ### General API Design and Tooling
 
