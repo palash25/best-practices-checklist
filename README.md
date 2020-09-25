@@ -25,10 +25,17 @@
   - [Nim](#nim)
   - [Pony](#pony)
   - [JavaScript](#javascript)
+  - [AngularJS](#angularjs)
   - [C](#C)
   - [C++](#C++)
   - [Dart](#dart)
   - [SQL](#sql)
+  - [Objective-C](#objective-c)
+  - [R](#r)
+  - [Shell](#shell)
+  - [HTML/CSS](#html/css)
+  - [Vimscript](#vimscript)
+  - [XML](#xml)
   - [General API Design and Tooling](#general-api-design-and-tooling)
 
 ## What is this
@@ -127,6 +134,7 @@ It could be anything from articles to books to videos that describes:
 ### Common Lisp
 
 - [Standard CL Symbols](https://www.hexstreamsoft.com/articles/notes-tips-standard-common-lisp-symbols/)
+- [Google Common Lisp Style Guide](https://google.github.io/styleguide/lispguide.xml)
 
 ### CSharp
 
@@ -135,6 +143,7 @@ It could be anything from articles to books to videos that describes:
 - [.NET Microservices: Architecture for Containerized .NET Applications](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/)
 - [C# Coding conventions](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/inside-a-program/coding-conventions)
 - [Unit testing in .NET Core and .NET Standard](https://docs.microsoft.com/en-us/dotnet/core/testing/)
+- [Google C# Style Guide](https://google.github.io/styleguide/csharp-style.html)
 
 ### Java
 
@@ -184,6 +193,10 @@ It could be anything from articles to books to videos that describes:
 - [Google JavaScript Style Guide](https://google.github.io/styleguide/jsguide.html)
 - [Mozilla Style Guide](https://firefox-source-docs.mozilla.org/tools/lint/coding-style/coding_style_js.html)
 
+### AngularJS
+
+- [An AngularJS Style Guide for Closure Users at Google](https://google.github.io/styleguide/angularjs-google-style.html)
+
 ### C
 
 - [C Coding Style](https://developer.gnome.org/programming-guidelines/stable/c-coding-style.html.en)
@@ -206,6 +219,34 @@ It could be anything from articles to books to videos that describes:
 ### SQL
 
 - [SQL Style Guide by Simon Holywell](https://www.sqlstyle.guide)
+
+### Objective-C
+
+- [Google Objective-C Style Guide](https://google.github.io/styleguide/objcguide.html)
+
+### Swift
+
+- [Google Swift Style Guide](https://google.github.io/swift/)
+
+### R
+
+- [Google R Style Guide](https://google.github.io/styleguide/Rguide.html)
+
+### Shell
+
+- [Google Shell Style Guide](https://google.github.io/styleguide/shellguide.html)
+
+### HTML/CSS
+
+- [Google HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.html)
+
+### Vimscript
+
+- [Google Vimscript Style Guide](https://google.github.io/styleguide/vimscriptguide.xml)
+
+### XML
+
+- [Google XML Style Guide](https://google.github.io/styleguide/xmlstyle.html)
 
 ### General API Design and Tooling
 
