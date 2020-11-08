@@ -113,6 +113,7 @@ It could be anything from articles to books to videos that describes:
 - [Programming Guidelines](https://wiki.haskell.org/Programming_guidelines)
 - [Things to Avoid](https://wiki.haskell.org/Haskell_programming_tips)
 - [Useful Idioms](https://wiki.haskell.org/Blow_your_mind)
+- [Haskell Mini Patterns Book](https://kowainik.github.io/posts/haskell-mini-patterns)
 
 ### Erlang
 
