@@ -193,6 +193,7 @@ It could be anything from articles to books to videos that describes:
 - [Google JavaScript Style Guide](https://google.github.io/styleguide/jsguide.html)
 - [Mozilla Style Guide](https://firefox-source-docs.mozilla.org/tools/lint/coding-style/coding_style_js.html)
 - [An AngularJS Style Guide for Closure Users at Google](https://google.github.io/styleguide/angularjs-google-style.html)
+- [Airbnb Style Guide](https://github.com/airbnb/javascript)
 
 ### C
 
