@@ -144,6 +144,7 @@ It could be anything from articles to books to videos that describes:
 - [C# Coding conventions](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/inside-a-program/coding-conventions)
 - [Unit testing in .NET Core and .NET Standard](https://docs.microsoft.com/en-us/dotnet/core/testing/)
 - [Google C# Style Guide](https://google.github.io/styleguide/csharp-style.html)
+- [ASP.NET Core Performance Best Practices](https://docs.microsoft.com/en-us/aspnet/core/performance/performance-best-practices?view=aspnetcore-5.0)
 
 ### Java
 
