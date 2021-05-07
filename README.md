@@ -28,6 +28,7 @@
   - [C](#C)
   - [C++](#C++)
   - [Dart](#dart)
+  - [Flutter](#flutter)
   - [SQL](#sql)
   - [Objective-C](#objective-c)
   - [R](#r)
@@ -214,6 +215,10 @@ It could be anything from articles to books to videos that describes:
 - [Dart Language Tour](https://dart.dev/guides/language/language-tour)
 - [Effective Dart](https://dart.dev/guides/language/effective-dart)
 - [Dart style guide (Fuchsia)](https://fuchsia.dev/fuchsia-src/development/languages/dart/style)
+
+### Flutter
+
+- [Style guide for Flutter repo](https://github.com/flutter/flutter/wiki/Style-guide-for-Flutter-repo)
 
 ### SQL
 
