@@ -78,6 +78,7 @@ It could be anything from articles to books to videos that describes:
 - [Idiomatic Rust](https://github.com/mre/idiomatic-rust)
 - [Unsafe Code Guidelines](https://rust-lang.github.io/unsafe-code-guidelines/)
 - [Rust Performance Book](https://nnethercote.github.io/perf-book/title-page.html)
+- [Rust Fuzz Book](https://rust-fuzz.github.io/book/introduction.html)
 
 ### Go
 
