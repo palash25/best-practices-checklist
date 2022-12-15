@@ -82,6 +82,7 @@ It could be anything from articles to books to videos that describes:
 
 ### Go
 
+- [Google's Go Style Guide](https://google.github.io/styleguide/go/)
 - [Clean Go](https://github.com/Pungyeon/clean-go-article)
 - [Idiomatic Go - Sourcegraph](https://about.sourcegraph.com/go/idiomatic-go)
 - [Idiomatic Go - by dmitshur](https://dmitri.shuralyov.com/idiomatic-go)
