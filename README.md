@@ -129,7 +129,8 @@ It could be anything from articles to books to videos that describes:
 
 ### Erlang
 
-- [Spawned Shelter](http://spawnedshelter.com)
+- [Spawned Shelter (a list of various Erlang resources)](http://spawnedshelter.com)
+- [Erlang Patterns (the site is no longer accessible but one can read the md files in the repo)](https://github.com/gar1t/erlang-patterns)
 
 ### Elixir
 
