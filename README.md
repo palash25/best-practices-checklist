@@ -38,6 +38,7 @@
     - [Vimscript](#vimscript)
     - [XML](#xml)
     - [Zig](#zig)
+    - [Prolog](#prolog)
 
 ## What is this?
 
@@ -248,3 +249,6 @@ It could be anything from articles to books to videos that describes:
 
 ### Zig
 - TODO once zig hits `v1.0` and someone actually writes up the best practices.
+
+### Prolog
+- TODO
