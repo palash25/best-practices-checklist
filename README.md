@@ -57,8 +57,7 @@ It could be anything from articles to books to videos that describes:
 - how to write idiomatic code in a particular language
 - what build systems / package managers to use and the best practices surrounding these aforementioned tools
 - how to good write unit/integration tests
-- different styles and idioms of a language
-- software design in general etc
+- different styles, design patterns & idioms of a language
 - new language section (if you find that the resources for your favourite language are missing feel free to create a new section and add them)
 
 **Note:** If you are adding a book to the list make sure that it is a free ebook. Amazon links to buy books will not be accepted.
@@ -68,11 +67,8 @@ It could be anything from articles to books to videos that describes:
 ### Rust
 
 - [Elements of Rust](https://github.com/ferrous-systems/elements-of-rust)
-- [Rust Language Reference](https://doc.rust-lang.org/nightly/reference/introduction.html)
-- [Rust Programming Language (Book)](https://doc.rust-lang.org/book/)
 - [Rust Language Cheat Sheet](https://cheats.rs/)
 - [Rust Cookbook](https://rust-lang-nursery.github.io/rust-cookbook/)
-- [3 Day Rust Course by Ferrous Systems](https://ferrous-systems.github.io/rust-three-days-course)
 - [Rust By Example](https://doc.rust-lang.org/rust-by-example/macros/overload.html)
 - [Cargo Guide](https://doc.rust-lang.org/cargo/guide/)
 - [Idiomatic Rust](https://github.com/mre/idiomatic-rust)
@@ -89,11 +85,11 @@ It could be anything from articles to books to videos that describes:
 - [Go package style guide by Rakyll](https://rakyll.org/style-packages/)
 - [Go Advice](https://github.com/cristaloleg/go-advice)
 - [Domain Driven Design in Go](https://github.com/marcusolsson/goddd)
-- [Learn Go With Tests](https://quii.gitbook.io/learn-go-with-tests/)
 - [Effective Go](https://golang.org/doc/effective_go.html)
 - [How to Write Go Code](https://golang.org/doc/code.html)
 - [The Uber Go Style Guide](https://github.com/uber-go/guide)
 - [Golang Standards](https://github.com/golang-standards/project-layout)
+- [Advanced Testing Patterns Talk](https://www.youtube.com/watch?v=8hQG7QlcLBk)
 
 ### Python
 
@@ -105,7 +101,6 @@ It could be anything from articles to books to videos that describes:
 - [Design Patterns Toptal Blog Post](https://www.toptal.com/python/python-design-patterns)
 - [Google Python Style Guide](https://google.github.io/styleguide/pyguide.html)
 - [Mozilla Style Guide](https://firefox-source-docs.mozilla.org/tools/lint/coding-style/coding_style_python.html)
-- [wemake-python-styleguide (contains a list of stylistic rules / guidelines for Python code)](https://wemake-python-stylegui.de/en/latest/pages/usage/violations/index.html)
 - [Python style guide (Fuchsia)](https://fuchsia.dev/fuchsia-src/development/languages/python/python_style)
 
 ### Ruby
@@ -218,7 +213,6 @@ It could be anything from articles to books to videos that describes:
 
 ### Dart
 
-- [Dart Language Tour](https://dart.dev/guides/language/language-tour)
 - [Effective Dart](https://dart.dev/guides/language/effective-dart)
 - [Dart style guide (Fuchsia)](https://fuchsia.dev/fuchsia-src/development/languages/dart/style)
 - [Style guide for Flutter repo](https://github.com/flutter/flutter/wiki/Style-guide-for-Flutter-repo)
@@ -254,8 +248,3 @@ It could be anything from articles to books to videos that describes:
 ### XML
 
 - [Google XML Style Guide](https://google.github.io/styleguide/xmlstyle.html)
-
-### General API Design and Tooling
-
-- [Designing unix tools](https://monkey.org/~marius/unix-tools-hints.html)
-- [Mozilla Code quality](https://firefox-source-docs.mozilla.org/code-quality/index.html)
