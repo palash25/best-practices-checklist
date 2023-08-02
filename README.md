@@ -37,19 +37,16 @@
     - [HTML/CSS](#htmlcss)
     - [Vimscript](#vimscript)
     - [XML](#xml)
-    - [General API Design and Tooling](#general-api-design-and-tooling)
 
-## What is this
+## What is this?
 
 This is a collection of language specific resources that can be used to look up the best practices followed by a particular language's community.
 
-## Why this repo
+## Why does this repo exist?
 
-I am a programming language enthusiast and I like picking up new languages all the time. Like most curious devs I learn different languages by implementing some side projects using them. This can be achieved by writing quick hacks that mostly turn out to be ugly code but if we want our projects to be publicly available to be used or hacked on by others we must ensure that the code we write is idiomatic and easily understood.
+I dabble into multiple programming languages and I wanted to have a central place that I can refer to whenever I am looking up best practices for a particular language.
 
-The purpose of this repo is to serve as a collection of resources that one can quickly look up while building such projects to make sure that their code is idiomatic before they make it public.
-
-## What counts as an acceptable entry
+## What counts as an acceptable entry?
 
 It could be anything from articles to books to videos that describes:
 
