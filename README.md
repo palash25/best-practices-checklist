@@ -3,7 +3,6 @@
 ## Table of Contents
 
 - [Best Practices Checklist](#best-practices-checklist)
-  - [Table of Contents](#table-of-contents)
   - [What is this](#what-is-this)
   - [Why this repo](#why-this-repo)
   - [What counts as an acceptable entry](#what-counts-as-an-acceptable-entry)
