@@ -16,7 +16,8 @@
     - [Erlang](#erlang)
     - [Elixir](#elixir)
     - [Common Lisp](#common-lisp)
-    - [CSharp](#csharp)
+    - [C#](#csharp)
+    - [F#](#fsharp)
     - [Java](#java)
     - [Scala](#scala)
     - [Groovy](#groovy)
@@ -145,6 +146,12 @@ It could be anything from articles to books to videos that describes:
 - [Unit testing in .NET Core and .NET Standard](https://docs.microsoft.com/en-us/dotnet/core/testing/)
 - [Google C# Style Guide](https://google.github.io/styleguide/csharp-style.html)
 - [ASP.NET Core Performance Best Practices](https://docs.microsoft.com/en-us/aspnet/core/performance/performance-best-practices?view=aspnetcore-5.0)
+
+
+### FSharp
+
+- [F# style guide](https://learn.microsoft.com/en-us/dotnet/fsharp/style-guide/)
+- [Effective F#, tips and tricks ](https://gist.github.com/swlaschin/31d5a0a2c4478e82e3ed60d653c0206b)
 
 ### Java
 
