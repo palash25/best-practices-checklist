@@ -74,6 +74,7 @@ It could be anything from articles to books to videos that describes:
 - [Unsafe Code Guidelines](https://rust-lang.github.io/unsafe-code-guidelines/)
 - [Rust Performance Book](https://nnethercote.github.io/perf-book/title-page.html)
 - [Rust Fuzz Book](https://rust-fuzz.github.io/book/introduction.html)
+- [Test Idioms](https://github.com/spacejam/test-idioms) (an example crate showcasing idiomatic test layout for Rust projects)
 
 ### Go
 
