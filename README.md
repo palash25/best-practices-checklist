@@ -206,6 +206,7 @@ It could be anything from articles to books to videos that describes:
 ### C
 
 - [C Coding Style](https://developer.gnome.org/programming-guidelines/stable/c-coding-style.html.en)
+- [C Style](https://github.com/mcinglis/c-style)
 - [Making The Best Use of C](https://www.gnu.org/prep/standards/html_node/Writing-C.html)
 - [Recommended C Style and Coding Standards](https://www.doc.ic.ac.uk/lab/cplus/cstyle.html)
 
