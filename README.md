@@ -256,7 +256,7 @@ It could be anything from articles to books to videos that describes:
 - [Google XML Style Guide](https://google.github.io/styleguide/xmlstyle.html)
 
 ### Zig
-- TODO once zig hits `v1.0` and someone actually writes up the best practices.
+- [Zig Design Patterns](https://github.com/SuperAuguste/zig-patterns)
 
 ### Prolog
 - TODO
