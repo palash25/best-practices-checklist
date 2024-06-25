@@ -63,19 +63,63 @@ It could be anything from articles to books to videos that describes:
 
 ## Language Specific Resources
 
-### Rust
 
-- [Elements of Rust](https://github.com/ferrous-systems/elements-of-rust)
-- [Rust Language Cheat Sheet](https://cheats.rs/)
-- [Rust Cookbook](https://rust-lang-nursery.github.io/rust-cookbook/)
-- [Rust By Example](https://doc.rust-lang.org/rust-by-example/macros/overload.html)
-- [Cargo Guide](https://doc.rust-lang.org/cargo/guide/)
-- [Idiomatic Rust](https://github.com/mre/idiomatic-rust)
-- [Unsafe Code Guidelines](https://rust-lang.github.io/unsafe-code-guidelines/)
-- [Rust Performance Book](https://nnethercote.github.io/perf-book/title-page.html)
-- [Rust Fuzz Book](https://rust-fuzz.github.io/book/introduction.html)
-- [Test Idioms](https://github.com/spacejam/test-idioms) (an example crate showcasing idiomatic test layout for Rust projects)
-- [List of Idiomatic Rust Resources by Corrode](https://corrode.dev/blog/idiomatic-rust-resources/)
+
+### C
+
+- [C Coding Style](https://developer.gnome.org/programming-guidelines/stable/c-coding-style.html.en)
+- [C Style](https://github.com/mcinglis/c-style)
+- [Making The Best Use of C](https://www.gnu.org/prep/standards/html_node/Writing-C.html)
+- [Recommended C Style and Coding Standards](https://www.doc.ic.ac.uk/lab/cplus/cstyle.html)
+
+### C++
+
+- [ISO C++ Core Guidelines](http://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines)
+- [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html)
+- [Mozilla Style Guide](https://firefox-source-docs.mozilla.org/tools/lint/coding-style/coding_style_cpp.html)
+- [C++ style guide (Fuchsia)](https://fuchsia.dev/fuchsia-src/development/languages/c-cpp/cpp-style)
+
+### Clojure
+
+- [Clojure Style Guide](https://github.com/bbatsov/clojure-style-guide)
+
+### Common Lisp
+
+- [Standard CL Symbols](https://www.hexstreamsoft.com/articles/notes-tips-standard-common-lisp-symbols/)
+- [Google Common Lisp Style Guide](https://google.github.io/styleguide/lispguide.xml)
+
+### CSharp
+
+- [Open-source library guidance](https://docs.microsoft.com/en-us/dotnet/standard/library-guidance/)
+- [C# Programming guide](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/)
+- [.NET Microservices: Architecture for Containerized .NET Applications](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/)
+- [C# Coding conventions](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/inside-a-program/coding-conventions)
+- [Unit testing in .NET Core and .NET Standard](https://docs.microsoft.com/en-us/dotnet/core/testing/)
+- [Google C# Style Guide](https://google.github.io/styleguide/csharp-style.html)
+- [ASP.NET Core Performance Best Practices](https://docs.microsoft.com/en-us/aspnet/core/performance/performance-best-practices?view=aspnetcore-5.0)
+
+
+### D
+
+- [The D Style](https://dlang.org/dstyle.html)
+- [Pragmatic D Tutorial: Idiomatic D](https://qznc.github.io/d-tut/idiomatic.html)
+
+### Erlang
+
+- [Spawned Shelter (a list of various Erlang resources)](http://spawnedshelter.com)
+- [Erlang Patterns (the site is no longer accessible but one can read the md files in the repo)](https://github.com/gar1t/erlang-patterns)
+
+### Elixir
+
+- [Fast Elixir - Idioms for writing performant code](https://github.com/devonestes/fast-elixir)
+- [Credo's Elixir Style Guide](https://github.com/rrrene/elixir-style-guide)
+- [The Zen of Elixir](https://github.com/tony612/the-zen-of-elixir)
+
+
+### FSharp
+
+- [F# style guide](https://learn.microsoft.com/en-us/dotnet/fsharp/style-guide/)
+- [Effective F#, tips and tricks ](https://gist.github.com/swlaschin/31d5a0a2c4478e82e3ed60d653c0206b)
 
 ### Go
 
@@ -91,6 +135,44 @@ It could be anything from articles to books to videos that describes:
 - [The Uber Go Style Guide](https://github.com/uber-go/guide)
 - [Golang Standards](https://github.com/golang-standards/project-layout)
 - [Advanced Testing Patterns Talk](https://www.youtube.com/watch?v=8hQG7QlcLBk)
+
+### Groovy
+
+- [Style guide](https://groovy-lang.org/style-guide.html)
+
+### Haskell
+
+- [Programming Guidelines](https://wiki.haskell.org/Programming_guidelines)
+- [Things to Avoid](https://wiki.haskell.org/Haskell_programming_tips)
+- [Useful Idioms](https://wiki.haskell.org/Blow_your_mind)
+- [Haskell Mini Patterns Book](https://kowainik.github.io/posts/haskell-mini-patterns)
+
+### Java
+
+- [Principles of Lean Java](http://www.ameyalokare.com/software/2018/01/13/lean-java-principles.html)
+- [Google Java Style Guide](https://google.github.io/styleguide/javaguide.html)
+- [Java Code Conventions](https://www.oracle.com/technetwork/java/codeconventions-150003.pdf)
+
+### Kotlin
+
+- [Coding Conventions](https://kotlinlang.org/docs/reference/coding-conventions.html)
+- [Google Kotlin Style Guide for Android](https://developer.android.com/kotlin/style-guide)
+
+### Nim
+
+- [Nim Style Guide](https://nim-lang.org/docs/nep1.html)
+- [Nim Notes](https://scripter.co/notes/nim)
+  
+
+### OCaml
+
+- [OCaml Style Guide](https://github.com/lindig/ocaml-style)
+
+
+### Pony
+
+- [Pony Patterns](https://patterns.ponylang.io/)
+
 
 ### Python
 
@@ -112,54 +194,20 @@ It could be anything from articles to books to videos that describes:
 - [Best Ruby](http://franzejr.github.io/best-ruby/)
 - [Fast Ruby - Idioms for writing performant code](https://github.com/JuanitoFatas/fast-ruby)
 
-### OCaml
+### Rust
 
-- [OCaml Style Guide](https://github.com/lindig/ocaml-style)
-
-### Haskell
-
-- [Programming Guidelines](https://wiki.haskell.org/Programming_guidelines)
-- [Things to Avoid](https://wiki.haskell.org/Haskell_programming_tips)
-- [Useful Idioms](https://wiki.haskell.org/Blow_your_mind)
-- [Haskell Mini Patterns Book](https://kowainik.github.io/posts/haskell-mini-patterns)
-
-### Erlang
-
-- [Spawned Shelter (a list of various Erlang resources)](http://spawnedshelter.com)
-- [Erlang Patterns (the site is no longer accessible but one can read the md files in the repo)](https://github.com/gar1t/erlang-patterns)
-
-### Elixir
-
-- [Fast Elixir - Idioms for writing performant code](https://github.com/devonestes/fast-elixir)
-- [Credo's Elixir Style Guide](https://github.com/rrrene/elixir-style-guide)
-- [The Zen of Elixir](https://github.com/tony612/the-zen-of-elixir)
-
-### Common Lisp
-
-- [Standard CL Symbols](https://www.hexstreamsoft.com/articles/notes-tips-standard-common-lisp-symbols/)
-- [Google Common Lisp Style Guide](https://google.github.io/styleguide/lispguide.xml)
-
-### CSharp
-
-- [Open-source library guidance](https://docs.microsoft.com/en-us/dotnet/standard/library-guidance/)
-- [C# Programming guide](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/)
-- [.NET Microservices: Architecture for Containerized .NET Applications](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/)
-- [C# Coding conventions](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/inside-a-program/coding-conventions)
-- [Unit testing in .NET Core and .NET Standard](https://docs.microsoft.com/en-us/dotnet/core/testing/)
-- [Google C# Style Guide](https://google.github.io/styleguide/csharp-style.html)
-- [ASP.NET Core Performance Best Practices](https://docs.microsoft.com/en-us/aspnet/core/performance/performance-best-practices?view=aspnetcore-5.0)
-
-
-### FSharp
-
-- [F# style guide](https://learn.microsoft.com/en-us/dotnet/fsharp/style-guide/)
-- [Effective F#, tips and tricks ](https://gist.github.com/swlaschin/31d5a0a2c4478e82e3ed60d653c0206b)
-
-### Java
-
-- [Principles of Lean Java](http://www.ameyalokare.com/software/2018/01/13/lean-java-principles.html)
-- [Google Java Style Guide](https://google.github.io/styleguide/javaguide.html)
-- [Java Code Conventions](https://www.oracle.com/technetwork/java/codeconventions-150003.pdf)
+- [Elements of Rust](https://github.com/ferrous-systems/elements-of-rust)
+- [Rust Language Cheat Sheet](https://cheats.rs/)
+- [Rust Cookbook](https://rust-lang-nursery.github.io/rust-cookbook/)
+- [Rust By Example](https://doc.rust-lang.org/rust-by-example/macros/overload.html)
+- [Cargo Guide](https://doc.rust-lang.org/cargo/guide/)
+- [Idiomatic Rust](https://github.com/mre/idiomatic-rust)
+- [Unsafe Code Guidelines](https://rust-lang.github.io/unsafe-code-guidelines/)
+- [Rust Performance Book](https://nnethercote.github.io/perf-book/title-page.html)
+- [Rust Fuzz Book](https://rust-fuzz.github.io/book/introduction.html)
+- [Test Idioms](https://github.com/spacejam/test-idioms) (an example crate showcasing idiomatic test layout for Rust projects)
+- [List of Idiomatic Rust Resources by Corrode](https://corrode.dev/blog/idiomatic-rust-resources/)
+- [Maintenance Checklist for Production Grade Rust Codebases by Corrode](https://corrode.notion.site/Rust-Maintenance-Checklist-3fa116db4c6149cbacbe3c16f81c6bb0)
 
 ### Scala
 
@@ -167,32 +215,6 @@ It could be anything from articles to books to videos that describes:
 - [Scala Best Practice Idioms](https://alvinalexander.com/scala/scala-best-practices-idioms-cookbook)
 - [Scala School](https://twitter.github.io/scala_school/)
 
-### Groovy
-
-- [Style guide](https://groovy-lang.org/style-guide.html)
-
-### Kotlin
-
-- [Coding Conventions](https://kotlinlang.org/docs/reference/coding-conventions.html)
-- [Google Kotlin Style Guide for Android](https://developer.android.com/kotlin/style-guide)
-
-### D
-
-- [The D Style](https://dlang.org/dstyle.html)
-- [Pragmatic D Tutorial: Idiomatic D](https://qznc.github.io/d-tut/idiomatic.html)
-
-### Clojure
-
-- [Clojure Style Guide](https://github.com/bbatsov/clojure-style-guide)
-
-### Nim
-
-- [Nim Style Guide](https://nim-lang.org/docs/nep1.html)
-- [Nim Notes](https://scripter.co/notes/nim)
-
-### Pony
-
-- [Pony Patterns](https://patterns.ponylang.io/)
 
 ### Javascript
 
@@ -203,20 +225,6 @@ It could be anything from articles to books to videos that describes:
 - [Mozilla Style Guide](https://firefox-source-docs.mozilla.org/tools/lint/coding-style/coding_style_js.html)
 - [An AngularJS Style Guide for Closure Users at Google](https://google.github.io/styleguide/angularjs-google-style.html)
 - [Airbnb Style Guide](https://github.com/airbnb/javascript)
-
-### C
-
-- [C Coding Style](https://developer.gnome.org/programming-guidelines/stable/c-coding-style.html.en)
-- [C Style](https://github.com/mcinglis/c-style)
-- [Making The Best Use of C](https://www.gnu.org/prep/standards/html_node/Writing-C.html)
-- [Recommended C Style and Coding Standards](https://www.doc.ic.ac.uk/lab/cplus/cstyle.html)
-
-### C++
-
-- [ISO C++ Core Guidelines](http://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines)
-- [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html)
-- [Mozilla Style Guide](https://firefox-source-docs.mozilla.org/tools/lint/coding-style/coding_style_cpp.html)
-- [C++ style guide (Fuchsia)](https://fuchsia.dev/fuchsia-src/development/languages/c-cpp/cpp-style)
 
 ### Dart
 
