@@ -197,6 +197,7 @@ It could be anything from articles to books to videos that describes:
 ### Rust
 
 - [Elements of Rust](https://github.com/ferrous-systems/elements-of-rust)
+- [Official Rust Guidelines](https://github.com/rust-lang/api-guidelines)
 - [Rust Language Cheat Sheet](https://cheats.rs/)
 - [Rust Cookbook](https://rust-lang-nursery.github.io/rust-cookbook/)
 - [Rust By Example](https://doc.rust-lang.org/rust-by-example/macros/overload.html)
@@ -208,6 +209,7 @@ It could be anything from articles to books to videos that describes:
 - [Test Idioms](https://github.com/spacejam/test-idioms) (an example crate showcasing idiomatic test layout for Rust projects)
 - [List of Idiomatic Rust Resources by Corrode](https://corrode.dev/blog/idiomatic-rust-resources/)
 - [Maintenance Checklist for Production Grade Rust Codebases by Corrode](https://corrode.notion.site/Rust-Maintenance-Checklist-3fa116db4c6149cbacbe3c16f81c6bb0)
+- [Secure Rust Guidelines](https://anssi-fr.github.io/rust-guide/)
 
 ### Scala
 
